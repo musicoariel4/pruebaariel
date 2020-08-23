@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private  EditText  mMessageEditText ;
     public static final String EXTRA_MESSAGE = "com.example.android.Acerca.extra.MESSAGE";
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
-    public static final int TEXT_REQUEST = 1; // código de solicitud
+    public static final int TEXT_REQUEST = 1; // código de solicitud ojo
 
     private TextView mReplyHeadTextView;
     private TextView mReplyTextView;
